@@ -8,7 +8,7 @@ accounts:
   message: "Welcome to EazyBank accounts related prod APIs"
   contactDetails:
     name: "Jaicob-Product Ownerr"
-    email: "jaicob@eazybytes.com"
+    email: "{cipher}5bee8f6bd730227ad500b6582ea66546519ef834f2a21eb8b572c6132108d90af4556bbcaa9707b6ea8d8883616de049"
   oncCallSupport:
     -(444)444-124
     -(444)444-125

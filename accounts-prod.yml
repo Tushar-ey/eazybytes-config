@@ -5,7 +5,7 @@ build:
 
 # here prefix name is accounts
 accounts:
-  message: "Welcome to EazyBank accounts related production ready APIs"
+  message: "Welcome to EazyBank accounts related prod ready APIs"
   contactDetails:
     name: "Jaicob-Product Ownerr"
     email: "{cipher}5bee8f6bd730227ad500b6582ea66546519ef834f2a21eb8b572c6132108d90af4556bbcaa9707b6ea8d8883616de049"

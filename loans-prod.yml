@@ -8,7 +8,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to EazyBank Loans APIs "
+  message: "Welcome to EazyBank  production ready Loans APIs "
   contactDetails:
     name: "Shelly - Product Owner"
     email: "shelly@eazybank.com"

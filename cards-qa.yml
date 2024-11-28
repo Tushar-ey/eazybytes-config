@@ -7,7 +7,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to EazyBank cards related QA webhook docker APIs "
+  message: "Welcome to EazyBank cards related QA APIs "
   contactDetails:
     name: "Nisha verma - QA Lead"
     email: "nisha@eazybank.com"

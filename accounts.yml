@@ -32,7 +32,7 @@ build:
 
 # here prefix name is accounts
 accounts:
-    message: "Welcome to EazyBank accounts related local APIs"
+    message: "Welcome to EazyBank accounts related local dokcer APIs"
     contactDetails:
         name: "Tushar-Developer"
         email: "tushar@eazybytes.com"

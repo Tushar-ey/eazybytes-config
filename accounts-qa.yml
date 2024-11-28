@@ -6,7 +6,7 @@ build:
 
 # here prefix name is accounts
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs"
+  message: "Welcome to EazyBank accounts related QA docker webhooks APIs"
   contactDetails:
     name: "Anjali- QA Lead"
     email: "anjali@eazybytes.com"
